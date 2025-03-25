@@ -10,11 +10,11 @@ On a piece of paper, write code to fulfill the following requirements.
 
     if your variable is over 10 characters long
 
-    add an exclamation mark to your variable
+        add an exclamation mark to your variable
 
     if not
 
-    add a period to your variable
+        add a period to your variable
 
     write the string into the console
 
